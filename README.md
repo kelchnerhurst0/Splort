@@ -199,4 +199,4 @@ This repository serves as the official landing page for **Splort**. The software
 **Get the most recent version of Splort today!**
 
 ---
-**Last updated:** 2026-11-10 17:37:11 UTC
+**Last updated:** 2026-11-10 23:03:35 UTC
